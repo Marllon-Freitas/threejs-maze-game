@@ -1380,7 +1380,7 @@ lru-cache@^5.1.1:
   version "0.0.0"
   dependencies:
     "@tailwindcss/vite" "^4.0.6"
-    maze-game "file:../../../../../../AppData/Local/Yarn/Cache/v6/npm-maze-game-0.0.0-294ededd-eadd-4fa7-9fc2-cd4fdfe87ea6-1739649811442/node_modules/maze-game"
+    maze-game "file:../../../../../../AppData/Local/Yarn/Cache/v6/npm-maze-game-0.0.0-32380e82-f3a2-4911-bca1-a568ba5b0e1d-1739650019318/node_modules/maze-game"
     react "^19.0.0"
     react-dom "^19.0.0"
     tailwindcss "^4.0.6"
@@ -1629,6 +1629,11 @@ tapable@^2.2.0:
   version "2.2.1"
   resolved "https://registry.npmjs.org/tapable/-/tapable-2.2.1.tgz"
   integrity sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ==
+
+three@^0.173.0:
+  version "0.173.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.173.0.tgz#e82989961cd2db05768540458c81b29f565be921"
+  integrity sha512-AUwVmViIEUgBwxJJ7stnF0NkPpZxx1aZ6WiAbQ/Qq61h6I9UR4grXtZDmO8mnlaNORhHnIBlXJ1uBxILEKuVyw==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
